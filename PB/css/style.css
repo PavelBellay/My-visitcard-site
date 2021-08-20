@@ -53,7 +53,7 @@ body {
   height: 7px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-color: #ff4f5a;
+  background-color: #000000;
   border-radius: 15px;
 }
 
