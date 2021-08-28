@@ -218,7 +218,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #ff4f5a;
+  color: #ffffff;
 }
 
 .slider_section .slider_nav-box {
@@ -340,11 +340,11 @@ a:focus {
 }
 
 .service_section .detail-box .btn-box a {
-  color: #ff4f5a;
+  color: #ffffff;
 }
 
 .service_section .detail-box .btn-box hr {
-  background-color: #ff4f5a;
+  background-color: #ffffff;
 }
 
 .service_section::before {
@@ -361,7 +361,7 @@ a:focus {
 }
 
 .work_section {
-  background-color: #ff4f5a;
+  background-color: #ffffff;
 }
 
 .work_section .custom_heading-container h3 {
@@ -537,7 +537,7 @@ a:focus {
 }
 
 .contact_section button:hover {
-  color: #ff4f5a;
+  color: #ffffff;
   background-color: transparent;
 }
 
