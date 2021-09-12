@@ -1,8 +1,9 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #000000;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
 }
+
 
 .layout_padding {
   padding: 75px 0;
@@ -40,7 +41,7 @@ body {
 .custom_heading-container h3 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
   position: relative;
 }
 
@@ -53,7 +54,7 @@ body {
   height: 7px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-color: #000000;
+  background-color: #ffffff;
   border-radius: 15px;
 }
 
@@ -71,7 +72,7 @@ body {
 }
 
 .btn-box a {
-  color: #1d1d1d;
+  color: #ffffff;
   margin-right: 15px;
   font-size: 18px;
 }
@@ -124,7 +125,7 @@ body {
   height: 4px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-color: #ff4f5a;
+  background-color: #000000;
   border-radius: 5px;
 }
 
@@ -208,13 +209,13 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
+  width: 80%;
 }
 
 .slider_section .detail-box h1 {
   font-weight: bold;
   font-size: 4rem;
-  color: #1a2e35;
+  color: #ffffff;
 }
 
 .slider_section .detail-box h1 span {
@@ -361,7 +362,7 @@ a:focus {
 }
 
 .work_section {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 .work_section .custom_heading-container h3 {
@@ -399,7 +400,10 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   padding: 35px 0 20px 0;
-  background-color: #ffffff;
+  background-color: #000000;
+
+
+
   border-radius: 5px;
   margin: 45px 10px;
   -webkit-box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.1);
@@ -428,7 +432,7 @@ a:focus {
           animation: even-box-animate 2s infinite;
 }
 
-@-webkit-keyframes odd-box-animate {
+@keyframes odd-box-animate {
   0% {
     -webkit-transform: translateY(45px);
             transform: translateY(45px);
@@ -527,11 +531,11 @@ a:focus {
 }
 
 .contact_section button {
-  background-color: #ff4f5a;
+  background-color: #000000;
   padding: 12px 55px;
   outline: none;
   border: none;
-  border: 1px solid #ff4f5a;
+  border: 1px solid #000000;
   color: #fff;
   margin-top: 25px;
 }
@@ -553,9 +557,9 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   width: 600px;
-  border: 1px solid #cccccc;
+  border: 1px solid #1ae83f;
   padding: 45px 35px 35px 25px;
-  background-color: #ffffff;
+  background-color: #000000;
   margin: 0 auto;
 }
 
@@ -587,11 +591,11 @@ a:focus {
 }
 
 .client_section .client_container .client_id .name h6 {
-  color: #ff4f5a;
+  color: #ffffff;
 }
 
 .info_section {
-  background-color: #ff4f5a;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -638,7 +642,7 @@ a:focus {
 }
 
 .info_section .info-contact h6 {
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
 }
 
@@ -672,6 +676,7 @@ a:focus {
 .footer_section a {
   color: #171717;
 }
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
